@@ -1,6 +1,6 @@
 # ResponsiveLandingPage
 
-
+Uma landing page responsiva projetada para se adaptar a diferentes tamanhos de tela e dispositivos.
 
 ## 🚀 Demo
 
@@ -8,7 +8,7 @@
 
 ## 🛠 Tecnologias
 
-_Nenhuma tecnologia informada._
+`HTML5` · `CSS3` · `JavaScript`
 
 ## 📸 Screenshots
 
